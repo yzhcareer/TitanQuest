@@ -19,6 +19,5 @@ Bow,WeaponHunting_Bow,records\item\equipmentweapon\bow,records\xpack\item\equipm
 Spear,WeaponHunting_Spear,records\item\equipmentweapon\spear,records\xpack\item\equipmentweapons\spear,records\xpack2\item\equipmentweapons\spear,records\xpack3\items\equipmentweapon\spear,
 Parchment,ItemEquipment,,records\xpack\item\parchments,records\xpack2\item\parchments,records\xpack3\items\parchments,records\xpack2\item\miscellaneous\parchments
 Equipments,All_Equipments,records\item\equipment,records\xpack\item\equipment,records\xpack2\item\equipment,records\xpack3\items\equipment,
-Items,All_Items,records\item,Records\XPack(\Quests\Objects)?\Item,records\xpack2(\quests\objects)?\item,records\xpack3(\quests\objects)?\item,
+Items,All_Items,records\item,records\xpack\item,records\xpack2\item,records\xpack3\items,
 Weapons,All_Weapon,records\item\equipmentweapon,records\xpack\item\equipmentweapons,records\xpack2\item\equipmentweapons,records\xpack3\items\equipmentweapon,
-Quest,Quest_Items,Records\Item\QuestItems,Records\XPack\Quests\Objects\Items,records\xpack2\quests\objects\items,records\xpack3\quests\objects\items,
